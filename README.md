@@ -2,12 +2,12 @@
 reposistori ini adalah latihan dari Kelas Belajar Dasar Git dengan GitHub di Dicoding Academy
 
 
-14 Juni 2021<br>
+**14 Juni 2021**<br>
 Belajar Kelas Memulai Pemrograman dengan Java. (Progres 21%)
  * Belajar tentang apa itu Java dan alasan menggunakannya.
  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java
 
-15 Juni 2021<br>
+**15 Juni 2021**<br>
 Belajar Kelas Memulai Pemrograman dengan Java. (Progres 56%)
  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, 
     dan array.
